@@ -1,0 +1,6 @@
+{
+  "name": "AutoCut Reels & Video Studio",
+  "description": "AI-powered auto-cut video & reels maker that turns photos and video clips into trending beat-synced reels with smart captions, effects, voiceover, and music.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
